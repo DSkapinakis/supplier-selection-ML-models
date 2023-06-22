@@ -26,9 +26,8 @@ This repository contains a summary of this work, starting with data preparation,
 # Installation and Setup
 
 ## Codes and Resources Used
-In this section I give user the necessary information about the software requirements.
-- **Editor Used:**  Spyder.
-- **Python Version:** 3.10.9.
+- **Editor Used:**  Spyder
+- **Python Version:** 3.10.9
 
 ## Python Packages Used
 
@@ -38,8 +37,6 @@ In this section I give user the necessary information about the software require
 - **Machine Learning:** `scikit-learn`
 
 # Data
-
-The very crucial part of any data science project is dataset. Therefore list all the data sources used in the project, including links to the original data, descriptions of the data, and any pre-processing steps that were taken.
 
 
 ## Source Data
