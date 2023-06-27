@@ -26,9 +26,9 @@ from EDA import *
     
 # Read the data
 # Reading the CSV files and excel (openpyxl required) files
-tasks = pd.read_excel('tasks.xlsx')
-costs = pd.read_csv('cost.csv')
-suppliers = pd.read_csv('suppliers.csv')
+tasks = pd.read_excel('./data/tasks.xlsx')
+costs = pd.read_csv('./data/cost.csv')
+suppliers = pd.read_csv('./data/suppliers.csv')
 costs.name = 'costs'
 tasks.name = 'tasks'
 suppliers.name = 'suppliers'
