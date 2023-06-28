@@ -1,6 +1,6 @@
 # Supplier Selection using Ridge Regression and Support Vector Regression with Radial Basis Function ('rbf') Kernel
 
-Developed as a course project for the program "Business Analytics: Operational Research and Risk Analysis" at the Alliance Manchester Business School.
+Developed as a group project for the program "Business Analytics: Operational Research and Risk Analysis" at the Alliance Manchester Business School.
 
 
 # Project Overview
